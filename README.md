@@ -1,4 +1,6 @@
-
+<img align="right" src="https://github.com/user-attachments/assets/ca7601a7-5c00-47bf-9014-4e0d18a20abf"
+ width="30%">
+<h1>
   Hi There I'm Nora Zaki 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
