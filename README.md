@@ -15,7 +15,8 @@ I'm a software developer with a strong passion for creating visually appealing a
   
 - 📫 Social links
 <p>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/nora-zaki🇵🇸-408a75328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nora-zaki🇵🇸-408a75328" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nora-zaki%F0%9F%87%B5%F0%9F%87%B8-408a75328/"><img
+    src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 </p>
 
 ### 🛠 &nbsp;Technologies that I work with
